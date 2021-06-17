@@ -1,0 +1,30 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.notepad {
+    height: 500px;
+    width: 800px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px; 
+    border-style: solid;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.inputArea {
+    border-style: solid;
+    
+}
+   
+
+.listDisplay {
+    border-style: solid;
+    position: relative;
+    top: 20px;
+}
+
